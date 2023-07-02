@@ -8,3 +8,7 @@ Caso você queira testa-lo, leve em consideração os acentos na hora de jogar!
 Eu estou aberto a críticas e apontamentos! Eu realmente quero melhorar
 Estou trabalhando em outros projetos de outras linguagens, por hora é só
 mas logo mais venho com novidades!
+
+Vou ser meio breve aqui! Mas caso queira me contratar para algo
+acesse meu Linkedin: Leonardo Mazzuca
+Estou ansiosíssimo para trabalhar para você!
